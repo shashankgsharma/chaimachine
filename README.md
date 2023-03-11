@@ -2,6 +2,7 @@
 <div>
   <b>Link of working project:</b> <a href = "https://replit.com/@shashankgsharma/chai-machine-start?v=1">Click here</a> 
 </div>
+<br>
 <ol>
   <li>A chai maker machine that gives 3 chai options to the consumers</li>
   <li>The only option of buying is through 4 types of coins: 1rs, 2rs, 5rs and 10rs coins.</li>
