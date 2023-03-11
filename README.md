@@ -1,6 +1,6 @@
 # chaimachine
 <div>
-  <b>Link of working project:</b> <a href = "https://replit.com/@shashankgsharma/chai-machine-start?v=1" target = "_blank">Click here</a> 
+  <b>Link of working project:</b> <a href = "https://replit.com/@shashankgsharma/chai-machine-start?v=1" target="_blank">Click here</a> 
 </div>
 <br>
 <ol>
